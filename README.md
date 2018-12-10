@@ -26,9 +26,8 @@
 도서명 | 저자 | 번역서|코멘트
 -|-|-|-
 (주교재) Hands-On Machine Learning with Scikit-Learn & Tensorflow|Aurelien Geron|2018.04|
-(부교재) Pattern Recognition and Machine Learning :alien: | Christoper M.Bishop | 2018.09 | 일단은 그냥 참고만하세요. 무료로 원서 풀려있습니다.
-
-#### 내용 및 목표
+(부교재) Pattern Recognition and Machine Learning :alien: | Christoper M.Bishop | 2018.09 | 일단은 그냥 참고만하세요.
+> Pattern Recognition and Machine Learning 은 무료로 공개되어 있습니다.
 
 * 머신러닝의 주요 개념을 공부합니다.
 * Python과 Tensorflow에 적응하고 문제 해결에 적절한 방법을 찾을 수 있도록 합니다.
